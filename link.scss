@@ -1,0 +1,16 @@
+$color: red;
+$color1: blue;
+$color2: green;
+
+ul li{
+        font-size: 20px;
+        color: $color;
+}
+
+p {
+      color:$color1;
+      font-size: 16px
+}
+a {
+    color: $color2;
+}
